@@ -1,0 +1,37 @@
+#map
+{
+  height: 94vh;
+  width: 100%;
+}
+
+#linky
+{
+  font-family: 'Quattrocento', serif;
+  font-size: 17px;
+  padding-left: 32px;
+  font-weight: 200;
+}
+
+#input1
+{
+ margin: 10px 10px 10px 10px;
+ font-size: 15px;
+ margin-left: 10px;
+}
+
+.brand-logo
+{
+  font-family: 'Holtwood One SC', serif;
+  font-size: 20px;
+}
+
+.email,.name
+{
+  font-family: Helvetica;
+  font-size: 12px;
+}
+
+.background
+{
+  opacity: .5;
+}
